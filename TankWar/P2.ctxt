@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=P2
+comment0.text=\n\ Write\ a\ description\ of\ class\ CPU_Red\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=P2()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Fire2()
+numComments=4

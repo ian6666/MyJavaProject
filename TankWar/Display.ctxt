@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Display\ here.\r\n\ \r\n\ @Adapted\ from\r\n\ @https\://www.greenfoot.org/topics/57985/0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Display\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=text\ size\ bcg\ frg
+comment2.target=void\ setMessage(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+numComments=3
